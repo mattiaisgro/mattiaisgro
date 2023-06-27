@@ -1,5 +1,5 @@
-I'm a physics student in Milan and I'm interested in **numerical methods**, **theoretical and computational physics**, **mathematics** and **philosophy of science**.
-Check out [my blog](https://mattiaisgro.github.io).
+I'm a physics student in Milan interested in **theoretical and computational physics**, **numerical methods**, **mathematics** and **philosophy of science**.
+Check out [my blog](https://mattiaisgro.github.io) where I write about these topics.
 
 ## Projects
 - [Theoretica](https://github.com/chaotic-society/theoretica)
