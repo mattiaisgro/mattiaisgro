@@ -8,7 +8,7 @@ I'm currently working on numerical libraries as part of the [Theoretica](https:/
 ## Projects
 - [Theoretica](https://github.com/chaotic-society/theoretica), a numerical library in C++ for scientific computing.
 - [Chebyshev](https://github.com/chaotic-society/chebyshev), a unit testing framework specialized in testing scientific software.
-- [SuperSYK](https://github.com/mattiaisgro/supersyk), numerical studies of quantum chaos in the supersymmetric SYK model, developed for my master thesis in theoretical physics.
+- [SuperSYK](https://github.com/mattiaisgro/supersyk), a study of quantum chaos in the supersymmetric SYK model, developed for my thesis in theoretical physics.
 - [FCC-ZeeTauTau](https://github.com/mattiaisgro/fcc-zeetautau), selection and reconstruction of $Z \rightarrow \tau \tau$ events at FCC-ee, developed during my stay at CERN.
 
 ## Research Interests
